@@ -118,7 +118,7 @@ class AKULA :
         
 
 if __name__ == '__main__':
-    shopBot = AKULA (username="ПОЧТА", password="ПАРОДЬ")
+    shopBot = AKULA (username="MAIL", password="Password")
     shopBot.findProduct()
     shopBot.closeBrowser()
             
